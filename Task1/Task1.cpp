@@ -1,4 +1,4 @@
 ﻿#include <iostream>
 void main() {
-	printf("Adam Lahovskyi");
+	printf("Sana Commerce Software Development Bootcamp");
 }
